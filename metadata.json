@@ -1,0 +1,6 @@
+{
+  "name": "Radhe Fashion — Minimalist Ladies' Kurti Boutique",
+  "description": "A minimalist, elegant boutique showcase website for Radhe Fashion ladies' ethnic wear and kurtis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
